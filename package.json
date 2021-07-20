@@ -5,7 +5,8 @@
   "main": "app.js",
   "scripts": {
     "test": "jest --watchAll",
-    "startDev": "nodemon app.js"
+    "startDev": "nodemon app.js",
+    "start":"node app.js"
   },
   "keywords": [
     "authenticattion",
