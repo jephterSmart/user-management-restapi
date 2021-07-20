@@ -125,7 +125,7 @@ For the following four endpoint, you have to provide the header:
          404  : No user with Id sent
          500  : An internal Server Error
 ```
-Visit Application (https://user-management-restapi.herokuapp.com/)[https://user-management-restapi.herokuapp.com/]
+Visit Application [https://user-management-restapi.herokuapp.com/](https://user-management-restapi.herokuapp.com/)
 
 ### Thanks for Using.
 
